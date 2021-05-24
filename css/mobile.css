@@ -1,0 +1,28 @@
+@media screen and (max-width: 991px) {
+    .content {
+        padding: 5px;
+        margin-top: 10px;
+    }
+
+    .search-form input { 
+        width: 100%;
+    }
+
+    .search-form button { 
+        width: 100%;
+    }
+
+    .search-form { 
+        margin-bottom: 20px;
+    }
+
+    .policy-content { display: block !important;}
+
+    .tag-template { margin-bottom: 20px !important;}
+
+    .content { 
+        margin-top: 10px !important;
+    }
+
+    
+}
